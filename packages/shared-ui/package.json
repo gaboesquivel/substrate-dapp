@@ -1,0 +1,20 @@
+{
+  "name": "shared-ui",
+  "private": true,
+  "version": "0.0.0",
+  "main": "./index.tsx",
+  "types": "./index.tsx",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint \"**/*.ts*\""
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "eslint": "^7.32.0",
+    "eslint-custom": "*",
+    "react": "^17.0.2",
+    "tsconfig": "*",
+    "typescript": "^5.1.3"
+  }
+}

@@ -1,0 +1,6 @@
+packages:
+  - 'dapps/**'
+  - 'packages/**'
+  - 'contracts/**'
+  - "!**/.next/**" # NEW
+  - "!**/dist/**" # NEW
