@@ -19,8 +19,6 @@ Whether you're a seasoned blockchain developer or just starting your journey, th
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-**Table of Contents** _generated with [DocToc](https://github.com/thlorenz/doctoc)_
-
 - [Tech Stack Overview](#tech-stack-overview)
   - [Polkadot, Substrate and Ink](#polkadot-substrate-and-ink)
   - [Smoldot Light Client](#smoldot-light-client)
