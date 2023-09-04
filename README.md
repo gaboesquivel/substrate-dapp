@@ -16,6 +16,8 @@ Welcome to the Substrate dApp Development Toolkit, your ultimate companion for a
 
 Whether you're a seasoned blockchain developer or just starting your journey, the Substrate dApp Development Toolkit is here to support you every step of the way. Get started today and turn your blockchain ideas into reality with ease and efficiency!
 
+## Contents
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
